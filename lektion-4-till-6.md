@@ -194,7 +194,7 @@ Uppgift:
 - Definiera lämpliga datatyper för alla kolumner
 - Testa databasen med exempeldata
 
-## Del 4: Egen design av grundläggande relationer
+## Del 4: Egen design av avancerade relationer
 
 ### 8. Butiker och produkter
 
