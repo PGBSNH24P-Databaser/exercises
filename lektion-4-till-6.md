@@ -118,7 +118,7 @@ CREATE TABLE team_players (
 Övningar:
 
 - Vilka relationer finns mellan tabellerna?
-- Varför behöver mellantabellen (team_players)?
+- Varför behövs mellantabellen (team_players)?
 - Lägg till 5 lag
 - Lägg till 20 spelare (utan lag än)
 - Koppla alla spelare till ett lag var
