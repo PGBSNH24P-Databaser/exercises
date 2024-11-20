@@ -57,7 +57,7 @@
     - `title` (text)
     - `content` (text)
     - `views` (nummer)
-    - `published` (boolean)
+    - `published` (datum)
       Lägg in 8 artiklar och skriv en query som visar de 3 mest visade publicerade artiklarna.
 
 16. Uppdatera `products` tabellen (från övning 2) genom att lägga till en kolumn `stock_quantity`. Skriv en query som visar alla produkter med mindre än 5 i lager och ett pris över 100.
