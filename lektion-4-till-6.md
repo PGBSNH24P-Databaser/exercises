@@ -155,7 +155,7 @@ CREATE TABLE student_hobbies (
 Övningar:
 
 - Vilka relationer finns mellan tabellerna?
-- Varför behöver mellantabellen (student_hobbies)?
+- Varför behövs mellantabellen (student_hobbies)?
 - Lägg till 10 elever (utan hobbies än)
 - Lägg till 3 hobbies
 - Ge varje elev minst 2 hobbies
